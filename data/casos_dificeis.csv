@@ -1,0 +1,14 @@
+id,texto,sentimento_esperado,tipo
+1,Não gostei nada do atendimento,negativo,negação
+2,"Não é ruim, gostei bastante",positivo,negação
+3,"Não tenho nada a reclamar, tudo perfeito",positivo,negação
+4,"Sem defeitos, funciona direitinho",positivo,negação
+5,"Que ótimo, o produto chegou quebrado",negativo,ironia
+6,"Maravilha, mais uma vez a entrega atrasou",negativo,ironia
+7,"Parabéns pela eficiência, só esperei duas semanas e nada",negativo,ironia
+8,"O produto é bom, mas a entrega foi péssima",misto,misto
+9,"Gostei do preço, mas o atendimento deixou a desejar",misto,misto
+10,"Foi mais ou menos, esperava mais",negativo,expressão
+11,Chegou ontem,neutro,neutro
+12,"Produto muito bom, recomendo",positivo,controle
+13,"Péssimo, não compro mais",negativo,controle

@@ -1,0 +1,261 @@
+id,texto,sentimento
+1,"Detestei o fone, ruim, nunca mais compro",negativo
+2,"Adorei o aplicativo, show",positivo
+3,A embalagem não é excelente,negativo
+4,"Cheguei animado, mas me arrependi, tudo estava sujo",negativo
+5,"Adorei o atendimento, nota máxima para a equipe",positivo
+6,"Teclado barulhento e as teclas falham, não recomendo",negativo
+7,"O produto veio diferente da foto, me senti enganada",negativo
+8,"Que lixo, joguei dinheiro fora",negativo
+9,Chegou atrasado e com a embalagem toda amassada,negativo
+10,"A mochila rasgou no segundo uso, qualidade lamentável",negativo
+11,"Ficou lindo na sala, combinou perfeitamente com os móveis",positivo
+12,Fone com som abafado e o microfone não funciona,negativo
+13,A cadeira rangeu desde o primeiro dia e a costura abriu,negativo
+14,Jogo cheio de bugs e trava em toda fase,negativo
+15,"Aspirador potente e silencioso, facilitou muito a limpeza",positivo
+16,"Gostei muito do filme, divertido do começo ao fim",positivo
+17,"A tv superou minhas expectativas, voltarei a comprar",positivo
+18,"A cadeira é firme e muito confortável, ótima para trabalhar em casa",positivo
+19,O produto não cumpre o que promete e o preço é abusivo,negativo
+20,"O notebook é ótimo, super recomendo",positivo
+21,O restaurante é ruim,negativo
+22,"A bateria do celular não dura nem meio dia, arrependido da compra",negativo
+23,"Fiquei muito decepcionado com a cadeira, não comprem",negativo
+24,A loja é confiável e o suporte respondeu rapidinho,positivo
+25,"O suporte foi inútil, não resolveram meu problema",negativo
+26,A qualidade não é show,negativo
+27,"Notebook lento e esquenta muito, péssimo custo-benefício",negativo
+28,"Voo tranquilo, pontual e com ótimo serviço de bordo",positivo
+29,O sabor é horrível e as porções são minúsculas,negativo
+30,"A cadeira não é muito ruim, gostei bastante",positivo
+31,"Detestei o restaurante, terrível, estou arrependido",negativo
+32,"O livro não é decepcionante, gostei bastante",positivo
+33,"Valeu a pena esperar, a qualidade é de primeira",positivo
+34,"Não gostei do tênis, perda de dinheiro",negativo
+35,"O atendimento não é muito ruim, gostei bastante",positivo
+36,A qualidade é muito boa,positivo
+37,"Internet instável, cai toda hora e o suporte não resolve",negativo
+38,A tv é terrível,negativo
+39,"Adorei o atendimento, muito bom, recomendo",positivo
+40,"Adorei a embalagem, incrível",positivo
+41,"Sensacional, a melhor compra que fiz este ano",positivo
+42,"Fiquei muito decepcionado com o tênis, estou arrependido",negativo
+43,"Não gostei do produto, estou arrependido",negativo
+44,"Perdi meu tempo esperando, a qualidade é muito baixa",negativo
+45,"Detestei o atendimento, nota zero para a equipe",negativo
+46,"O filme superou minhas expectativas, super recomendo",positivo
+47,"Muito insatisfeito, o produto não funciona como prometido",negativo
+48,"A TV tem imagem escura e o som chia, muito fraca",negativo
+49,O curso não é incrível,negativo
+50,A embalagem é decepcionante,negativo
+51,"Adorei o fone, excelente, tudo certo",positivo
+52,"Não gostei da bateria, não comprem",negativo
+53,"Pesado e desajeitado, difícil de carregar no dia a dia",negativo
+54,Não gostei do hotel,negativo
+55,"Não gostei do filme, previsível e sem graça",negativo
+56,"Muito caro para o que oferece, não vale o preço",negativo
+57,"Plano de internet estável, nunca caiu desde que contratei",positivo
+58,"O serviço é muito ruim, não comprem",negativo
+59,"Adorei o filme, show, tudo certo",positivo
+60,"O livro não atendeu o que eu esperava, não comprem",negativo
+61,"Não funciona, parou de ligar com dois dias de uso",negativo
+62,"Comida deliciosa e ambiente muito agradável, voltarei com certeza",positivo
+63,"Loja não confiável, o pedido nunca chegou e o dinheiro não voltou",negativo
+64,Fiquei muito satisfeito com a comida,positivo
+65,"Péssima qualidade, rasgou na primeira lavagem",negativo
+66,O produto é maravilhoso,positivo
+67,"Detestei o curso, ruim, estou arrependido",negativo
+68,"Não é ruim, na verdade gostei bastante do resultado",positivo
+69,A TV tem imagem espetacular e o som é ótimo,positivo
+70,Instalação complicada e o manual não ajuda em nada,negativo
+71,"O aplicativo é ótimo, recomendo",positivo
+72,O garçom errou o pedido duas vezes e ainda cobrou a mais,negativo
+73,Gostei muito do hotel,positivo
+74,"Cor linda e tecido macio, a roupa caiu muito bem",positivo
+75,"Fiquei muito satisfeito com o fone, vale a pena",positivo
+76,A embalagem não é muito boa,negativo
+77,"Gostei muito do notebook, vale a pena",positivo
+78,O aplicativo não atendeu o que eu esperava,negativo
+79,"Produto original e bem embalado, entrega dentro do prazo",positivo
+80,"Tela com manchas e touch falhando, uma decepção total",negativo
+81,"Muito ruim, não serve para o que eu precisava",negativo
+82,"A mochila é resistente e tem vários compartimentos, gostei muito",positivo
+83,"Adorei a bateria, ótima, vale a pena",positivo
+84,"Muito insatisfeito, veio faltando peça e sem nota fiscal",negativo
+85,"O livro é envolvente, não consegui parar de ler",positivo
+86,"Não recomendo, material fraco e acabamento ruim",negativo
+87,O filme é muito ruim,negativo
+88,A cadeira superou minhas expectativas,positivo
+89,Fiquei decepcionada com a embalagem e com o descuido da loja,negativo
+90,"O produto superou minhas expectativas, super recomendo",positivo
+91,Fiquei muito decepcionado com o celular,negativo
+92,"O serviço superou minhas expectativas, nota dez",positivo
+93,"Produto chegou perfeito, vale cada centavo",positivo
+94,"Cor desbotou na primeira lavagem, tecido muito fino",negativo
+95,"Não gostei do produto, perda de dinheiro",negativo
+96,"Excelente atendimento pelo chat, sem enrolação",positivo
+97,"Não gostei do filme, perda de dinheiro",negativo
+98,"Curso superficial, conteúdo desatualizado e professor desorganizado",negativo
+99,"Teclado macio e silencioso, perfeito para escrever o dia inteiro",positivo
+100,"Ficou feio na sala, a cor é bem diferente da foto",negativo
+101,"Ótima qualidade, material resistente e acabamento perfeito",positivo
+102,O celular não é incrível,negativo
+103,"Muito feliz com a compra, chegou bem embalado e funcionando",positivo
+104,"Superou minhas expectativas, estou muito satisfeita com a compra",positivo
+105,"Péssimo atendimento pelo chat, respostas prontas que não ajudam",negativo
+106,"A bateria é show, recomendo",positivo
+107,"A bateria superou minhas expectativas, vale a pena",positivo
+108,"Comprei para minha mãe e ela amou, muito prático de usar",positivo
+109,"Tela nítida, cores vivas e sistema fluido, estou apaixonado",positivo
+110,"Muito satisfeito, o produto funciona como prometido",positivo
+111,A tv não é perfeita,negativo
+112,"Gostei muito do filme, tudo certo",positivo
+113,"A bateria não é decepcionante, gostei bastante",positivo
+114,"Quarto minúsculo, cama dura e vista para um muro",negativo
+115,O filme não é maravilhoso,negativo
+116,O produto cumpre o que promete e o preço está bom,positivo
+117,"Recomendo muito, o custo-benefício é excelente",positivo
+118,"A comida é muito ruim, uma decepção",negativo
+119,"Não gostei do atendimento, demorado e sem educação",negativo
+120,"A série é viciante, cada episódio melhor que o anterior",positivo
+121,"A bateria não é horrível, gostei bastante",positivo
+122,"A tv é incrível, tudo certo",positivo
+123,"A tv é incrível, vale a pena",positivo
+124,"Demorou mais de um mês para chegar, muito decepcionante",negativo
+125,"Fiquei muito decepcionado com a loja, estou arrependido",negativo
+126,"Gostei muito da cadeira, nota dez",positivo
+127,O filme é ruim,negativo
+128,O restaurante é caro e a comida estava sem tempero,negativo
+129,A tv é horrível,negativo
+130,"Nada funcionou como prometido, uma enorme perda de tempo",negativo
+131,"Detestei o hotel, péssimo, nunca mais compro",negativo
+132,Entregaram o produto errado e ainda demoraram para trocar,negativo
+133,O técnico não apareceu e ainda fiquei sem resposta da empresa,negativo
+134,"Chegou rápido e funciona muito bem, nota mil",positivo
+135,"Fone com som limpo e graves potentes, recomendo",positivo
+136,"Aula dinâmica e interessante, aprendi muito em pouco tempo",positivo
+137,"Chegou antes do prazo e o produto é exatamente como na foto, adorei",positivo
+138,"Tênis desconfortável, me deu bolhas na primeira caminhada",negativo
+139,"Atendimento horrível, ninguém resolve nada e me deixaram esperando",negativo
+140,"Ótimo custo-benefício, a bateria dura bastante",positivo
+141,"Detestei o filme, ruim",negativo
+142,A loja superou minhas expectativas,positivo
+143,"Show de bola, comprei de novo para presentear uma amiga",positivo
+144,"Fiquei muito decepcionado com a TV, não recomendo",negativo
+145,"Comprei para minha mãe e ela devolveu, difícil de usar",negativo
+146,O filme é terrível,negativo
+147,Fiquei muito decepcionado com o atendimento,negativo
+148,"Detestei o filme, horrível, não comprem",negativo
+149,"Fiquei muito satisfeito com o curso, nota dez",positivo
+150,Fiquei muito satisfeito com o produto,positivo
+151,"Jogo divertido e bem otimizado, rodou liso no meu computador",positivo
+152,Não gostei do atendimento,negativo
+153,"Bateria horrível, descarrega muito rápido",negativo
+154,"Não gostei da câmera, não vale a pena",negativo
+155,"Atendimento grosseiro, me trataram com descaso",negativo
+156,Gostei muito do tênis,positivo
+157,Fui muito bem atendido e o problema foi resolvido no mesmo dia,positivo
+158,"O celular é excelente, nota dez",positivo
+159,"Adorei o produto, excelente, estou satisfeito",positivo
+160,"Detestei a bateria, fraca",negativo
+161,"O filme não é péssimo, gostei bastante",positivo
+162,"O fone não é fraco, gostei bastante",positivo
+163,"Excelente notebook, abre os programas rapidamente",positivo
+164,"Adorei o perfume, a fragrância dura o dia todo",positivo
+165,"Equipe prestativa, o técnico chegou no horário e resolveu tudo",positivo
+166,"Gostei muito do curso, tudo certo",positivo
+167,"Camiseta de ótimo tecido, não encolheu depois da lavagem",positivo
+168,"Instalação simples e funciona perfeitamente, estou impressionado",positivo
+169,"Fiquei muito satisfeito com a cadeira, estou satisfeito",positivo
+170,"A comida é maravilhosa, super recomendo",positivo
+171,"Filme chato e longo demais, quase dormi no cinema",negativo
+172,"O notebook é excelente, super recomendo",positivo
+173,"Adorei o filme, incrível",positivo
+174,"Entrega rápida e embalagem bem protegida, tudo certo",positivo
+175,"Adorei o notebook, excelente",positivo
+176,"Terrível, a pior compra que fiz este ano",negativo
+177,"O filme não é fraco, gostei bastante",positivo
+178,"Qualidade incrível pelo preço, não esperava tanto",positivo
+179,A loja não atendeu o que eu esperava,negativo
+180,"Produto falsificado, não é original como o anúncio dizia",negativo
+181,O curso é ótimo,positivo
+182,"A comida é ótima, super recomendo",positivo
+183,"Detestei o livro, fraco",negativo
+184,"O atendimento é perfeito, voltarei a comprar",positivo
+185,"Me surpreendi, achei que seria pior mas a qualidade é muito boa",positivo
+186,Não gostei do notebook,negativo
+187,"O hotel não atendeu o que eu esperava, estou arrependido",negativo
+188,O garçom foi atencioso e o preço é justo,positivo
+189,"O filme não atendeu o que eu esperava, nunca mais compro",negativo
+190,"Panela de excelente qualidade, antiaderente de verdade",positivo
+191,"A tv superou minhas expectativas, recomendo",positivo
+192,"Gostei bastante do tênis, muito confortável para corridas longas",positivo
+193,"Gostei muito do celular, tudo certo",positivo
+194,"O suporte foi incrível, resolveram meu problema em minutos",positivo
+195,A qualidade não é ótima,negativo
+196,"Adorei o celular, excelente, estou satisfeito",positivo
+197,"Fiquei muito satisfeito com a TV, tudo certo",positivo
+198,"Fiquei muito decepcionado com o serviço, perda de dinheiro",negativo
+199,O sabor é maravilhoso e as porções são generosas,positivo
+200,"Curso excelente, conteúdo claro e professor muito didático",positivo
+201,"Detestei o filme, ruim, nunca mais compro",negativo
+202,"Não é nada do que eu esperava, voltei para pedir reembolso",negativo
+203,"O celular é rápido, a bateria dura o dia inteiro e a câmera é ótima",positivo
+204,"O restaurante não é muito ruim, gostei bastante",positivo
+205,Produto chegou quebrado e a loja não quis trocar,negativo
+206,"Cheguei desconfiado, mas o resultado foi ótimo, recomendo",positivo
+207,"O curso é ótimo, nota dez",positivo
+208,"Não tenho do que reclamar, produto ótimo e entrega pontual",positivo
+209,"Fiquei muito decepcionado com a embalagem, uma decepção",negativo
+210,"Comida fria e garçom mal-humorado, não volto mais",negativo
+211,O celular não é ótimo,negativo
+212,"Quarto espaçoso, cama confortável e vista maravilhosa",positivo
+213,O aplicativo é fácil de usar e nunca travou,positivo
+214,"O fone é maravilhoso, tudo certo",positivo
+215,"O livro não é horrível, gostei bastante",positivo
+216,"Panela de péssima qualidade, a comida gruda e queima",negativo
+217,"A pizza chegou quentinha e com bastante recheio, estava uma delícia",positivo
+218,"Não gostei da cadeira, estou arrependido",negativo
+219,"Adorei o produto, excelente",positivo
+220,Entregaram antes do combinado e o produto estava intacto,positivo
+221,"Voo atrasado, bagagem extraviada e ninguém deu satisfação",negativo
+222,"Aspirador fraco e barulhento, não recolhe quase nada",negativo
+223,"Ambiente limpo e organizado, fui muito bem recebido",positivo
+224,Fiquei encantada com a embalagem e com o cuidado da loja,positivo
+225,"Não gostei do notebook, perda de dinheiro",negativo
+226,"Não gostei da comida, não comprem",negativo
+227,"Muito bom, atendeu exatamente o que eu precisava",positivo
+228,"Perfeito para o dia a dia, leve e bonito",positivo
+229,"Atendimento nota dez, tiraram todas as minhas dúvidas antes da compra",positivo
+230,"Atendimento educado e eficiente, resolveram meu pedido sem burocracia",positivo
+231,"Ambiente sujo e desorganizado, fui mal recebido",negativo
+232,"Hotel sujo, banheiro com mofo e barulho a noite toda",negativo
+233,"A série perdeu a graça, enrolação do começo ao fim",negativo
+234,"O restaurante superou o que eu imaginava, tudo estava saboroso",positivo
+235,"Não gostei da câmera, não recomendo",negativo
+236,"Hotel limpo, café da manhã farto e equipe muito simpática",positivo
+237,"A pizza chegou fria e com pouco recheio, uma decepção",negativo
+238,A loja não é incrível,negativo
+239,Não gostei do livro,negativo
+240,"Não gostei do livro, a história é arrastada e previsível",negativo
+241,"Esperava mais, a qualidade é bem inferior ao que prometeram",negativo
+242,"Adorei a qualidade, ótima",positivo
+243,"Já abri três chamados e ninguém me respondeu, suporte inexistente",negativo
+244,"Detestei o perfume, cheiro forte e enjoativo, some em uma hora",negativo
+245,"Não é bom, a qualidade deixa muito a desejar",negativo
+246,O fone superou minhas expectativas,positivo
+247,"A bateria é péssima, não recomendo",negativo
+248,"Nada a reclamar, tudo perfeito do pedido à entrega",positivo
+249,"A embalagem não atendeu o que eu esperava, uma decepção",negativo
+250,A tv não atendeu o que eu esperava,negativo
+251,Camiseta encolheu e desbotou depois da primeira lavagem,negativo
+252,"Gostei do atendimento, rápido e cordial",positivo
+253,"Fiquei muito decepcionado com o produto, não recomendo",negativo
+254,"Aula cansativa e confusa, não aprendi quase nada",negativo
+255,O dono é gentil e o café é o melhor da cidade,positivo
+256,"Adorei a comida, ótima, voltarei a comprar",positivo
+257,O dono é arrogante e o café é aguado,negativo
+258,O aplicativo trava toda hora e perde meus dados,negativo
+259,Fiquei muito decepcionado com o produto,negativo
+260,"Filme emocionante, atuações incríveis e roteiro bem amarrado",positivo
