@@ -1,0 +1,20 @@
+Exploração das avaliações
+Total de avaliações: 260
+
+Classe: negativo
+Quantidade: 130
+Percentual: 50.0%
+Tamanho médio dos textos: 7.71 palavras
+Três primeiros exemplos da classe:
+- Detestei o fone, ruim, nunca mais compro
+- A embalagem não é excelente
+- Cheguei animado, mas me arrependi, tudo estava sujo
+
+Classe: positivo
+Quantidade: 130
+Percentual: 50.0%
+Tamanho médio dos textos: 7.70 palavras
+Três primeiros exemplos da classe:
+- Adorei o aplicativo, show
+- Adorei o atendimento, nota máxima para a equipe
+- Ficou lindo na sala, combinou perfeitamente com os móveis
