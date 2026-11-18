@@ -10,4 +10,4 @@ python -m venv .venv
 .\.venv\Scripts\python.exe main.py
 ```
 
-Nesta etapa, o programa gera `resultados/exploracao.txt`.
+Nesta etapa, o programa gera `exploracao.txt` e `comparacao.csv` em `resultados/`.
